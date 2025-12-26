@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **aashishranjan39@yahoo.com**
 
-- ⚡ Fun fact **I am quick learner new technology**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
