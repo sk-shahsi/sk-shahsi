@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@sashikumar" target="blank"><img src="https://img.shields.io/twitter/follow/@sashikumar?logo=twitter&style=for-the-badge" alt="@sashikumar" /></a> </p>
 
-- 🔭 I’m currently working on **java, Spring boot, microservices, Angular, MAchine Learning, SQL, Python**
+- 🔭 I’m currently working on **java, Spring boot, microservices, Angular, Machine Learning, SQL, Python**
 
 - 🌱 I’m currently learning **python,**
 
