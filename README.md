@@ -60,7 +60,11 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-2D3748?style=for-the-badge&logo=diagram-next&logoColor=white)
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Aashish Ranjan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Aashish Ranjan" /></a></p><br><br>
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank">
+    <img src="https://img.shields.io/badge/🤝_Refer_Me_For_A_Job-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Refer Aashish Ranjan for a Job" height="42" />
+  </a>
+</p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sk-shahsi&show_icons=true&locale=en&layout=compact" alt="sk-shahsi" /></p>
 
