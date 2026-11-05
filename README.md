@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **java, Spring boot, microservices, Angular, Machine Learning, SQL, Python**
 
-- 🌱 I’m currently learning **python,**
+- 🌱 I’m currently learning **python,ML,DL,GenAI,AgenticAI**
 
-- 👯 I’m looking to collaborate on **python**
+- 👯 I’m looking to collaborate on **ML,GenAI**
 
 - 🤝 I’m looking for help with **java**
 
